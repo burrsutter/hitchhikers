@@ -1,0 +1,14 @@
+.hike_slide_text-centered {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width:100%;
+}
+.hike_slide_text-footer {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  width:100%;
+}
+
+
