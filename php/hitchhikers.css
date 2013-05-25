@@ -1,0 +1,136 @@
+.hike_slide_text-centered {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width:100%;
+}
+.hike_slide_text-footer {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  width:100%;
+}
+
+html.cover body {
+	background:url("img/032012_JBossGalaxy_cover.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.banded_blue body {
+	background:url("img/032012_JBossGalaxy_slide1_internal_banded_blue.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.collage body {
+	background:url("img/032012_JBossGalaxy_collage.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.dontpanic body {
+	background:url("img/032012_JBossGalaxy_dontpanic.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.ghosted_black body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_jboss_ghosted_black.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.ghosted_black_quote body {
+	background:url("img/032012_JBossGalaxy_slide1_internal_ghosted-black_quote.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+	    
+html.appserver body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_AS7.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.flying_saucers body {
+	background:url("img/032012_JBossGalaxy_slide5_internal_no-ghost.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.hibernate body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_hibernate.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.rocket_ship body {
+	background:url("img/032012_JBossGalaxy_slide3_internal_no-ghost.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.rocket_ship2 body {
+	background:url("img/032012_JBossGalaxy_slide4_internal_no-ghost.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+
+html.richfaces body {
+	background:url("img/032012_JBossGalaxyslide2_internal_no-ghost_richfaces.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.arquillian body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_arquillian.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.jbds body {
+	background:url("img/052513_JBoss_JDBS_JBossGalaxy_PNG8.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.drools body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_drools.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.drools_family body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_drools-family.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.jbpm body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_jbpm.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.switchyard body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_switchyard.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+html.infinispan body {
+	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_infinispan.png");
+	background-position:center;
+	background-size: 100%;
+}
+
+
+html.final body {
+	background:url("img/032012_JBossGalaxy_final-slide.png");
+	background-position:center;
+	background-size: 100%;
+}
+
