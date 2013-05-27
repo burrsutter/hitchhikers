@@ -15,36 +15,42 @@ html.cover body {
 	background:url("img/032012_JBossGalaxy_cover.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 html.banded_blue body {
 	background:url("img/032012_JBossGalaxy_slide1_internal_banded_blue.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 html.collage body {
 	background:url("img/032012_JBossGalaxy_collage.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.dontpanic body {
 	background:url("img/032012_JBossGalaxy_dontpanic.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.ghosted_black body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_jboss_ghosted_black.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.ghosted_black_quote body {
 	background:url("img/032012_JBossGalaxy_slide1_internal_ghosted-black_quote.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 	    
@@ -52,30 +58,35 @@ html.appserver body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_AS7.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.flying_saucers body {
 	background:url("img/032012_JBossGalaxy_slide5_internal_no-ghost.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.hibernate body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_hibernate.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.rocket_ship body {
 	background:url("img/032012_JBossGalaxy_slide3_internal_no-ghost.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.rocket_ship2 body {
 	background:url("img/032012_JBossGalaxy_slide4_internal_no-ghost.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 
@@ -83,54 +94,62 @@ html.richfaces body {
 	background:url("img/032012_JBossGalaxyslide2_internal_no-ghost_richfaces.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.arquillian body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_arquillian.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.jbds body {
 	background:url("img/052513_JBoss_JDBS_JBossGalaxy_PNG8.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.drools body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_drools.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.drools_family body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_drools-family.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.jbpm body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_jbpm.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.switchyard body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_switchyard.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
 html.infinispan body {
 	background:url("img/032012_JBossGalaxy_slide2_internal_no-ghost_infinispan.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
-
 
 html.final body {
 	background:url("img/032012_JBossGalaxy_final-slide.png");
 	background-position:center;
 	background-size: 100%;
+	background-repeat: no-repeat;	
 }
 
