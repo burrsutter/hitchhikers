@@ -61,6 +61,13 @@ html.appserver body {
 	background-repeat: no-repeat;	
 }
 
+html.wildfly body {
+	background:url("img/052513_JBoss_JDBS_JBossGalaxy_Wildfly_PNG8.png");
+	background-position:center;
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}
+
 html.flying_saucers body {
 	background:url("img/032012_JBossGalaxy_slide5_internal_no-ghost.png");
 	background-position:center;
